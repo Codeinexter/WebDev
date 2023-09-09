@@ -1,0 +1,16 @@
+h2{
+    color: coral;
+}
+table,tr,th,td{
+    border: 2px solid black;
+    border-collapse: none;
+    padding: 10px;
+    border-spacing: 5px;
+}
+th{
+    background-color: aqua;
+}
+td{
+    background-color: blanchedalmond;
+    text-align: center;
+}
